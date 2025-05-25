@@ -34,7 +34,7 @@
 
 ## ✨ Featured Projects
 
-**Jen**: Voice-interactive AI assistant for elderly (Python, Gemini, Fetch.ai, VAPI)
+**Jen**: Voice-interactive AI assistant for the elderly (Python, Gemini, Fetch.ai, VAPI)
 
 **Wind Turbine CV**: Autonomous clean energy inspection (OpenCV, ROS2, DTs)
 
