@@ -41,8 +41,7 @@
 **MEDEVAC Wargaming**: AI-driven Army training simulation (Unity, C#, ML-Agents)
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vkstark&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstark&layout=compact&theme=radical&langs_count=3"/> </p>
+
 <!-- 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
