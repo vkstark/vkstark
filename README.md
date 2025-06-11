@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vkstark&cacheSeconds=30&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstark&cacheSeconds=30&layout=compact&theme=radical&langs_count=3"/> </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstark&cacheSeconds=30&layout=compact&theme=radical&langs_count=4"/> </p>
 <!-- 📝 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
 
