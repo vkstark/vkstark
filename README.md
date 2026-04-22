@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 MEng in EECS (Data Science & Systems) @ UC Berkeley
+- 🏫 MEng in EECS (Data Science & Systems) @ UC Berkeley [2025 Grad]
 - 🧠 Architected scalable GenAI systems, LLM pipelines, and multi-tenant AI agents
 - 🦾 Engineering AI solutions at State Street (LLMs, RAG, LangChain, MLflow, Azure, FastAPI)
 - 💡 Trillionaire ambition. Superhuman discipline. Never compromise on velocity or vision.
