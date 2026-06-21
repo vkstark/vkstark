@@ -45,7 +45,7 @@ AI Engineer building **production LLM, RAG, agent, and MLOps systems**. MEng EEC
 </p>
 
 ## 📊 Proof of Work
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vkstark&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vkstark&show_icons=true&include_all_commits=true&theme=radical" alt="Vishal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstark&layout=compact&theme=radical&langs_count=4"/> </p>
 
 <p align="center">
