@@ -36,12 +36,24 @@ AI Engineer building **production LLM, RAG, agent, and MLOps systems**. MEng EEC
 
 ## 🧠 Tech Stack
 
-`Python` `C++` `C#` `SQL` · `LangChain` `FastAPI` `PyTorch` `VAPI` · `Azure` `Docker` `MLflow` `Redis` `PostgreSQL` · `Unity ML-Agents` `ROS2` `Gymnasium`
+**Languages:** `Python` `C++` `C#` `R` `Dart` `SQL`
+**AI / ML:** `LangChain` `LangGraph` `PyTorch` `OpenCV` `Stable Diffusion` `Gymnasium` `FastAPI` `VAPI`
+**Infra & Tools:** `Azure (AKS)` `AWS` `Docker` `MLflow` `Flutter` `Unity ML-Agents` `ROS2` `Git`
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,aws,docker,flutter,unity,cpp,cs,git,mysql&theme=dark" alt="Tech stack icons" />
+</p>
 
 ## 📊 Proof of Work
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vkstark&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkstark&layout=compact&theme=radical&langs_count=4"/> </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkstark&bg_color=141321&color=fe428e&line=fe428e&point=a9fef7&area=true&hide_border=true" alt="Vishal's contribution graph" />
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vkstark&label=Profile%20views&color=blueviolet&style=flat)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
